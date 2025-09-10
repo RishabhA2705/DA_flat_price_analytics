@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.venv/
+flat/
+data/processed/
+models/
+*.db
+data/raw/Bengaluru_House_Data.csv
+.vscode/
